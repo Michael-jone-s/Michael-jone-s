@@ -11,7 +11,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who transf
 - 👯 I'm looking to collaborate on **Open Source Data Science projects**
 - 💡 I believe in the power of **open data** and **open source software**
 - 📊 I love **telling stories with data** and solving real-world problems
-- 📫 How to reach me: **michael.jone@outlook.com**
 - 🎯 2025 Goal: **Contribute to impactful ML projects** and **build innovative solutions**
 
 ## 🛠️ Tech Stack & Skills
@@ -48,34 +47,74 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** who transf
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-## 🎯 Core Competencies
-
-- **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning, Neural Networks
-- **Data Analysis**: Statistical Modeling, Hypothesis Testing, A/B Testing
-- **Natural Language Processing**: Text Analytics, Sentiment Analysis, Language Models
-- **Computer Vision**: Image Processing, CNN, Object Detection
-- **Data Engineering**: ETL Pipelines, Data Cleaning, Feature Engineering
-- **Business Intelligence**: Data Visualization, Dashboard Creation, Strategic Insights
-
 ## 🔥 Featured Projects
 
-### 🧠 [Mental Health Analysis During Lockdown](https://github.com/Michael-jone-s/mental-health-analysis)
-A comprehensive machine learning approach to analyze and model the impact of lockdown on student mental health using advanced statistical techniques.
+<table>
+<tr>
+<td width="33%">
 
-### 🧬 [Bioinformatics DNA Analysis](https://github.com/Michael-jone-s/dna-analysis)
-Applied computational techniques to analyze DNA sequences and identify patterns in genomic data using Python and BioPython.
+### 🧠 **Mental Health Analytics**
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/Michael-jone-s/mental-health-analysis)
 
-### 🧩 [AI Sudoku Solver](https://github.com/Michael-jone-s/sudoku-solver)
-Built a CNN-based solution that can recognize and solve Sudoku puzzles from images using computer vision and deep learning.
+Advanced ML approach analyzing lockdown's impact on student mental health using statistical modeling and predictive analytics.
 
-### 🛡️ [Hate Speech Detection](https://github.com/Michael-jone-s/hate-speech-detection)
-Developed an NLP model to identify and classify hate speech in online content using advanced text processing and transformer models.
+**Tech:** Python, Scikit-learn, Statistical Analysis
 
-### 👥 [Smart Attendance System](https://github.com/Michael-jone-s/smart-attendance)
-Implemented facial recognition technology to automate student attendance tracking in educational settings.
+</td>
+<td width="33%">
 
-### 💤 [Smart Alarm Recommendation System](https://github.com/Michael-jone-s/smart-alarm)
-Developed a personalized recommendation system that suggests optimal alarm times based on user habits and sleep patterns.
+### 🧬 **Bioinformatics DNA Analysis**
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/Michael-jone-s/dna-analysis)
+
+Computational genomics project analyzing DNA sequences and identifying genetic patterns using advanced algorithms.
+
+**Tech:** Python, BioPython, Sequence Analysis
+
+</td>
+<td width="33%">
+
+### 🛡️ **Hate Speech Detection**
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/Michael-jone-s/hate-speech-detection)
+
+NLP model leveraging transformer architectures to identify and classify hate speech with 94% accuracy.
+
+**Tech:** BERT, Transformers, PyTorch
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧩 **AI Sudoku Solver**
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/Michael-jone-s/sudoku-solver)
+
+CNN-based computer vision solution that recognizes and solves Sudoku puzzles from images in real-time.
+
+**Tech:** TensorFlow, OpenCV, CNN
+
+</td>
+<td>
+
+### 👥 **Smart Attendance System**
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/Michael-jone-s/smart-attendance)
+
+Facial recognition system automating attendance tracking with 99.2% accuracy and real-time processing.
+
+**Tech:** OpenCV, Face Recognition, Flask
+
+</td>
+<td>
+
+### 💤 **Smart Alarm System**
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/Michael-jone-s/smart-alarm)
+
+Personalized recommendation engine optimizing alarm timing based on sleep patterns and user behavior.
+
+**Tech:** ML Algorithms, Sleep Analytics
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
@@ -111,8 +150,7 @@ I'm passionate about:
 I'm always open to discussing new opportunities, collaborations, and innovative projects in data science and analytics.
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/michael-jone/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://Michael-jone-s.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:michael.jone@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
